@@ -22,9 +22,14 @@ let code="123"
 // console.log(password)
 // console.log(typeof password)
 let isRegistered=1
-console.log(isRegistered)
-console.log(typeof isRegistered)
+// console.log(isRegistered)
+// console.log(typeof isRegistered)
 isRegistered=Boolean(isRegistered)
-console.log(isRegistered)
-console.log(typeof isRegistered)
-console.table([isRegistered,typeof isRegistered])
+// console.log(isRegistered)
+// console.log(typeof isRegistered)
+// console.table([isRegistered,typeof isRegistered])
+let str1 ="Hello "
+let str2="Aayush"
+let str3=str1+str2
+console.log(str3);
+console.log(str1 +str2);
