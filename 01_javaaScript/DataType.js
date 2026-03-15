@@ -31,5 +31,10 @@ isRegistered=Boolean(isRegistered)
 let str1 ="Hello "
 let str2="Aayush"
 let str3=str1+str2
-console.log(str3);
-console.log(str1 +str2);
+// console.log(str3);
+// console.log(str1 +str2);
+function myChAR(Name) {
+    return "hello"+Name+"!";
+    
+}
+console.log(myChAR("Aayush"));
